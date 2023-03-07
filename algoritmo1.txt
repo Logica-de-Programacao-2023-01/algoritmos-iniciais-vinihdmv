@@ -1,0 +1,4 @@
+Leia x
+Leia y
+Soma= x + y
+Escreva a soma
