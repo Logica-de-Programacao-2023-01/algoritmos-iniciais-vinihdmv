@@ -1,0 +1,9 @@
+Algoritmo de busca linear um algoritmo que procura por um determinado elemento em uma lista,
+verificando um por um da lista até encontra-lo
+
+Elemento da lista desejável = x = var
+Elemento da lista não desejavel = n = var
+leia o primeiro elemento da lista
+Se for x separe-o do resto, pois será o desejado
+Senão passe para o proximo elemento
+
