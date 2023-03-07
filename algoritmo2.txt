@@ -1,0 +1,4 @@
+leia x=Celsius
+Leia Y=Farenheit
+Se Celsius para Farenheit: X/5= y-32/9
+Se Farenheit para Celsius: Y-32/9 = x/5
