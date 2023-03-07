@@ -1,0 +1,9 @@
+Leia x
+Leia y
+X= lista de elementos
+var soma=0
+para cada elemento soma na var soma 
+y= quantidade de numeros na lista
+some y+1
+Para cada numero adicionado na lista
+Resultado x/y 
