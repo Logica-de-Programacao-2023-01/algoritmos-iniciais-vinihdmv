@@ -1,0 +1,7 @@
+Leia X = var
+leia N = Menor divisor primo
+Faça a divisão da var pelos seu menor divisor primo X/N
+Em sequência divide-se o resultado obtido pelo mesmo numero 
+Se não for possível
+Pular para o próximo ḿenor numero primo
+Parar ao obter resto 1
