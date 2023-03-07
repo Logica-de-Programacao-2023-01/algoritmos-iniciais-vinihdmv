@@ -1,0 +1,11 @@
+Algoritmo de calculo de potência: algoritmo que calcula a potência de um número, elevando-o
+a uma determinada potência
+
+Leia "a"= base = var
+Leia "n"= expoente = var
+Se for atribuido um valor de n
+O valor de a será multiplicado por a número de vezes de n
+Se o valor de n=0
+Escreva o resultado = 1
+Se o valor de n=1
+Escreva o resultado = a
