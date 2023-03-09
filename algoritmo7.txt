@@ -1,0 +1,8 @@
+Leia X = dividendo de uma divisão = var
+Leia Y = divisor da divisão de X = a um numero primo = var
+Leia Z = o resto da equação = X/Y
+Leia W = o quociente da divisão = var
+Se na divisão X/Y o divisor se igualou ao quociente e todos os resultados tem
+resto diferente de 0
+Escreva = X é primo
+
