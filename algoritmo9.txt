@@ -1,0 +1,6 @@
+Ler o valor do Principal (P)
+Ler a taxa de juros anual (r)
+Ler o período de tempo em anos (t)
+Calcular o montante (M) utilizando a fórmula: M = P*(1+r)**t
+Exibir o valor do montante (M)
+Fim
