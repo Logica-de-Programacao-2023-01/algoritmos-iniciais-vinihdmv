@@ -1,16 +1,7 @@
-Início
-Ler uma lista de números (L)
-Ler uma lista de pesos (P)
-Verificar se o número de elementos em L é igual ao número de elementos em P
-Senão exibir uma mensagem de erro e encerrar o algoritmo
-Inicializar a soma dos produtos (SP) como zero
-Inicializar a soma dos pesos (S) como zero
-Para cada elemento i em L
-Faça:
-a. Calcular o produto do elemento i pelo seu peso correspondente em P (Pi)
-b. Adicionar Pi a SP
-c. Adicionar o peso correspondente em P a S
-Calcular a média ponderada (MP) utilizando a fórmula:
-MP = SP / S
-Exibir o valor da média ponderada (MP)
-Fim
+leia lista_nueros
+leia lista_pesos
+var somatorio_numeros = 0
+var somatorio_pesos = 0
+para cada elemento = da lista_numeo,faça:
+somatorio_neros = somatorio_numeros = (elemento * peso_correspondente)
+para cada peso da lista_peso
