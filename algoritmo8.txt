@@ -4,5 +4,4 @@ B= Qualquer lado
 Leia H= um segmento de reta com origem em um dos vértices e perpendicular ao lado oposto do trangulo
 = altura
 Se forem atribuidos valores a B e a H
-Faça B multiplicado por H e divido por 2
-Escreva o resultado
+Faça B*H/2
